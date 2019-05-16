@@ -394,4 +394,4 @@ Tous les routeurs peuvent se joindre :
     |        |           |        |
     +--------+           +--------+
 
-![Tableau d'adressage][TableauDadressageTP3.JPG]
+![Tableau d'adressage](https://github.com/GabrielClmcn/B2-Reseau/blob/master/tp/tp3/TableauDadressageTP3.JPG)
